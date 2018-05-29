@@ -22,4 +22,4 @@ print(find_short("bitcoin take over the world maybe who knows perhaps"))  # shd 
 print(find_short("turns out random test cases are easier than writing out basic ones"))  # shd be 3
 print(find_short("i want to travel the world writing code one day"))  # shd be 1
 print(find_short("Lets all go on holiday somewhere very cold"))  # shd be 2
-print('ss')
+
