@@ -18,7 +18,7 @@ def descending_drder(num):
     return int(''.join(str(x) for x in l))
 
 
-# Tests
+# Examples
 
 print(descending_drder(21445))
 print(descending_drder(145263))

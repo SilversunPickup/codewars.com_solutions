@@ -11,10 +11,13 @@ Example:
 
 Available at: https://www.codewars.com/kata/5583090cbe83f4fd8c000051
 """
+
+
 # solution
 def digitize(n):
     return [int(x) for x in reversed(str(n))]
 
-# Test
+
+# Examples
 print(digitize(35231))
 print(digitize(348597))

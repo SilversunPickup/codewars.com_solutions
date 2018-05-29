@@ -18,5 +18,5 @@ def positive_sum(arr):
     return sum
 
 
-# Test
+# Example
 print(positive_sum([1,-4,7,12]))

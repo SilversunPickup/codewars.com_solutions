@@ -29,7 +29,7 @@ def get_sum(a, b):
     return sum
 
 
-# Tests
+# Examples
 print(get_sum(1, 0))
 print(get_sum(1, 2))
 print(get_sum(0, 1))

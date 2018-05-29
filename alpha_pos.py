@@ -22,5 +22,5 @@ def alphabet_position(text):
     return " ".join(str(i) for i in result_list)
 
 
-# Test
+# Examples
 print(alphabet_position("The sunset sets at twelve o' clock."))

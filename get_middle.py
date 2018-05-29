@@ -39,7 +39,7 @@ def get_middle(s):
         return ''.join(splitted[middle])
 
 
-# Tests
+# Examples
 print(get_middle("test"))
 print(get_middle("testing"))
 print(get_middle("middle"))

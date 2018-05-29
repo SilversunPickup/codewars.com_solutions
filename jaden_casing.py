@@ -20,5 +20,5 @@ def toJadenCase(s):
     return string.capwords(s)
 
 
-# Test
+# Example
 print(toJadenCase("How can mirrors be real if our eyes aren't real"))
