@@ -7,6 +7,8 @@ Note: do NOT mutate the nodes!
 
 Available at: https://www.codewars.com/kata/52a89c2ea8ddc5547a000863
 """
+
+
 class Node:
     def __init__(self, next=None):
         self.next = next
@@ -26,7 +28,6 @@ def loop_size(node):
             cycle_list = visited[start_of_cycle:]
             cycle_list_len = len(cycle_list)
             return cycle_list_len
-
 
 
 # example
